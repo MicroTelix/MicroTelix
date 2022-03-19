@@ -1,12 +1,12 @@
-### Olá! Eu sou Maycon Teles, estudante de TI.
+### Olá! Meu nome é <a href="https://www.instagram.com/maycon_teles_s2/"> Maycon Teles</a>, estudante de TI.
 
 
 - 🔭 Atualmente estou trabalhando como freelancer.
-- 🌱 Estudando: HTML, CSS e planejo aprender também JavaScript. 
+- 🌱 Estudando: <strong>HTML, CSS</strong> e planejo aprender também <strong>JavaScript.</strong> 
 - 👯 Procuro me dedicar a aprender cada vez mais tecnologias para poder ser um bom profissional.
 
 <div align="center">
-  <a href="https://www.instagram.com/maycon_teles_s2/">
+  <a href="https://github.com/MicroTelix">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MicroTelix&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MicroTelix&layout=compact&langs_count=7&theme=radical"/>
 </div>
@@ -21,6 +21,7 @@
 </div>
   
  ##
+  
   <br>
 <div> 
   <a href="https://www.instagram.com/maycon_teles_s2/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
