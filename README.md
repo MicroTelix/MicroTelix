@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou trabalhando como freelancer.
 - 🌱 Estudando: <strong>HTML, CSS</strong> e planejo aprender também <strong>JavaScript.</strong> 
-- 👯 Procuro me dedicar a aprender cada vez mais tecnologias para poder ser um bom profissional.
+- 👯 Procuro me dedicar para aprender cada vez mais tecnologias para poder ser um bom profissional.
 
 <div align="center">
   <a href="https://github.com/MicroTelix">
